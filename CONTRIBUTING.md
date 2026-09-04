@@ -53,7 +53,7 @@ or discuss your intended approach for solving the problem in the comments for an
 
 ### Git workflows
 
-We use [GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html) for this project.
+We use [GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow) for this project.
 Members of the [Amsterdam GitHub organisation](https://github.com/Amsterdam) can request push access to the repository,
 to be able to push branches.
 If you do not want access, you can [fork the repo](https://help.github.com/en/github/getting-started-with-github/fork-a-repo) and [submit a pull request](https://help.github.com/en/github/collaborating-with-issues-and-pull-requests/proposing-changes-to-your-work-with-pull-requests).

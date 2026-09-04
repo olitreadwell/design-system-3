@@ -40,7 +40,7 @@ When we want to release to npm and publish to Storybook, we merge `develop` into
 Feature branches are small, short-lived branches (aim for 2 working days).
 This helps continuous integration and deployment, reduces the chance of merge conflicts and limits the scope of code reviews.
 
-This approach is called ‘[GitFlow](https://datasift.github.io/gitflow/IntroducingGitFlow.html)’.
+This approach is called ‘[GitFlow](https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow)’.
 
 Feature branches are automatically deployed to their environment.
 There are 2 ways to get the address of a branch deployment:

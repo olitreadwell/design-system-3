@@ -29,7 +29,7 @@ npm install @amsterdam/design-system-css @amsterdam/design-system-tokens
 The set of classes for a component can be seen as a blueprint for its markup and features.
 An `.ams-component` root selector applies the essential styles of the component to its element, and additional classes like `.ams-component--variant` modify its appearance or behaviour.
 
-The classes employ the [naming convention of NL Design System](https://nldesignsystem.nl/handboek/developer/architectuur#bem-class-names-voor-css).
+The classes employ the [naming convention of NL Design System](https://nldesignsystem.nl/handboek/developer/architectuur/#bem-class-names-voor-css).
 Other communities only need to overwrite design tokens to use our components with their branding.
 
 ### In JSX
