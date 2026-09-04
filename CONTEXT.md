@@ -30,7 +30,9 @@
 - No clean documented+approved+open issue survives → run repo-audit matrix for a verifiable self-found gap.
 
 ## Gap ledger (dedupe — READ FIRST, never re-pick)
-- (none yet — first run)
+- `2026-09-04` self-found dead links (docs dimension) — pr-opened (chore/fix-dead-links-in-docs) — 3 verified-404 links fixed in 4 files; deduped clean.
 
 ## Mined gaps (discovered, not yet attempted)
-- (see repo-audit run appended below)
+- `2026-09-04` docs: datasift.github.io/gitflow/IntroducingGitFlow.html returns 404 (curl -sSL -o /dev/null -w '%{http_code}' → 404; site root also 404) in CONTRIBUTING.md:56 + documentation/git.md:43 → replace with Atlassian GitFlow tutorial (200). Dedupe: issue 767 (closed 2023, "Change docs to new GitFlow setup") did not touch this link; no open/closed/merged PR touches it. status: attempted → pr-opened.
+- `2026-09-04` docs: nldesignsystem.nl/handboek/developer/architectuur (no trailing slash) returns 404 in packages/css/README.md:32 → add trailing slash architectuur/ (200). Dedupe: no upstream issue/PR. status: attempted → pr-opened.
+- `2026-09-04` docs: reactrouter.com/en/main/hooks/use-link-click-handler returns 404 in storybook/src/docs/guidelines/routing-libraries.docs.mdx:32 → replace with reactrouter.com/en/main/api/hooks/useLinkClickHandler (200, from reactrouter.com/en/main/hooks index). Dedupe: PR 2687 (merged) added the doc but did not fix the link; no other PR touches it. status: attempted → pr-opened.
