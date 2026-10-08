@@ -291,7 +291,7 @@ The following class names have been removed in release 4.0.0.
 * **Checkbox:** Refactor CSS, reorder tokens, add input state documentation ([#2058](https://github.com/Amsterdam/design-system/issues/2058)) ([a13ea6d](https://github.com/Amsterdam/design-system/commit/a13ea6d65a54b06120ce4d43ea4b1dd67d562496))
 * **Date Input, Time Input:** Equalise height to that of other Inputs and Select ([#2143](https://github.com/Amsterdam/design-system/issues/2143)) ([3593bd8](https://github.com/Amsterdam/design-system/commit/3593bd88363e2e5a2d8a69e9b2df31a813c60e92))
 * **Invalid Form Alert:** Remove outline offset hack ([#2189](https://github.com/Amsterdam/design-system/issues/2189)) ([660e0a1](https://github.com/Amsterdam/design-system/commit/660e0a1e946c82cc32b03ad0a5a589e333f9716d))
-* **Select:** Use intrisic size instead of 100% ([#2142](https://github.com/Amsterdam/design-system/issues/2142)) ([e71f40e](https://github.com/Amsterdam/design-system/commit/e71f40ef60a404d072e78e3ab7505da752fb5f7b))
+* **Select:** Use intrinsic size instead of 100% ([#2142](https://github.com/Amsterdam/design-system/issues/2142)) ([e71f40e](https://github.com/Amsterdam/design-system/commit/e71f40ef60a404d072e78e3ab7505da752fb5f7b))
 * **Switch:** Remove phantom whitespace below ([#2155](https://github.com/Amsterdam/design-system/issues/2155)) ([ad0108e](https://github.com/Amsterdam/design-system/commit/ad0108efa5a9421b425eabfc73dbeadde624e5a6))
 * Use correct styling for disabled and / or invalid inputs ([#2168](https://github.com/Amsterdam/design-system/issues/2168)) ([af42723](https://github.com/Amsterdam/design-system/commit/af427237eb54cf805eead4925b2e98a49d21c652))
 * Use correct underline width for Standalone Link with icon ([#2096](https://github.com/Amsterdam/design-system/issues/2096)) ([a87b5a8](https://github.com/Amsterdam/design-system/commit/a87b5a82636bed3c4e20fa0a7113f7cfca20efe0))
@@ -400,7 +400,7 @@ The following class names have been removed in release 4.0.0.
 * **Dialog:** Change background colour of backdrop and add token for it ([#1876](https://github.com/Amsterdam/design-system/issues/1876)) ([d071bb4](https://github.com/Amsterdam/design-system/commit/d071bb4149d2789d967abcdb84ccdfa4d5b7aecc))
 * **Footer:** add FooterMenu component to replace PageMenu in Footer ([#1871](https://github.com/Amsterdam/design-system/issues/1871)) ([85e0f0f](https://github.com/Amsterdam/design-system/commit/85e0f0f8c7fd9c281ba68155999e835921e4443d))
 * **Header:** Add responsive version of Amsterdam Logo, remove Heading level 1 ([#1880](https://github.com/Amsterdam/design-system/issues/1880)) ([7de8138](https://github.com/Amsterdam/design-system/commit/7de813861a565da89fee246731dc1525bc5d2643))
-* **Icon:** Add invisble text content to simplify baseline alignment ([#1905](https://github.com/Amsterdam/design-system/issues/1905)) ([190b588](https://github.com/Amsterdam/design-system/commit/190b58865dee4552cf2c304cbc4d193cf7e14036))
+* **Icon:** Add invisible text content to simplify baseline alignment ([#1905](https://github.com/Amsterdam/design-system/issues/1905)) ([190b588](https://github.com/Amsterdam/design-system/commit/190b58865dee4552cf2c304cbc4d193cf7e14036))
 * Remove action tokens, add and implement cursor tokens ([#1860](https://github.com/Amsterdam/design-system/issues/1860)) ([40a04a8](https://github.com/Amsterdam/design-system/commit/40a04a88e8c5829df54eb3a6ca338557249aec5d))
 * Rename and document common tokens for links ([#1870](https://github.com/Amsterdam/design-system/issues/1870)) ([551743d](https://github.com/Amsterdam/design-system/commit/551743d11436ff2363f8dd1187afe166e6c4a02b))
 * Shorten size labels in border tokens ([#1941](https://github.com/Amsterdam/design-system/issues/1941)) ([fa154a6](https://github.com/Amsterdam/design-system/commit/fa154a6c96a11a43623f959a51f782abae27449e))
@@ -526,7 +526,7 @@ The following class names have been removed in release 4.0.0.
 
 ### Features
 
-* Add documention for Gap and Margin utility classes ([#1427](https://github.com/Amsterdam/design-system/issues/1427)) ([6adbd13](https://github.com/Amsterdam/design-system/commit/6adbd13f2437c017e379caf315b0546d052ffd6d))
+* Add documentation for Gap and Margin utility classes ([#1427](https://github.com/Amsterdam/design-system/issues/1427)) ([6adbd13](https://github.com/Amsterdam/design-system/commit/6adbd13f2437c017e379caf315b0546d052ffd6d))
 * Add focus on initial render to Form Error List ([#1328](https://github.com/Amsterdam/design-system/issues/1328)) ([09387b7](https://github.com/Amsterdam/design-system/commit/09387b7b7d5f03a7422910314de4ae4d0ccbb983))
 * Add horizontal and vertical alignment options to Column ([#1428](https://github.com/Amsterdam/design-system/issues/1428)) ([d5a7766](https://github.com/Amsterdam/design-system/commit/d5a7766bfd60f62e4a9b69e369bfa08bbd425fa6))
 * Add horizontal and vertical alignment options to Row ([#1330](https://github.com/Amsterdam/design-system/issues/1330)) ([1b9c269](https://github.com/Amsterdam/design-system/commit/1b9c269f10392d1ab6503e6b047849a586d56502))
